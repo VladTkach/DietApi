@@ -33,7 +33,6 @@ namespace Diet.Controllers
                 user = temp;
             return Ok(user);
 
-
         }
     }
 }
